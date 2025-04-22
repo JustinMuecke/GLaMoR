@@ -1,0 +1,6 @@
+[submodule "GLaMoR-DataPipeline"]
+	path = GLaMoR-DataPipeline
+	url = https://github.com/JustinMuecke/GLaMoR-DataPipeline.git
+[submodule "GLaMoR_Model_Training"]
+	path = GLaMoR_Model_Training
+	url = https://github.com/JustinMuecke/GLaMoR_Model_Training.git
